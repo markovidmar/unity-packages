@@ -1,0 +1,13 @@
+{
+  "name": "com.facebook.unitysdk",
+  "displayName": "Facebook Unity SDK",
+  "version": "17.0.1",
+  "unity": "2022.3",
+  "unityRelease": "50f1",
+  "description": "Facebook SDK for Unity Package Manager",
+  "keywords": [
+    "sdk",
+    "Facebook"
+  ],
+  "category": "SDK"
+}
